@@ -1,0 +1,6 @@
+C:\Documents and Settings\Dom\Pulpit\source ip changer\bin\Release\OTLandIPChanger.exe.config
+C:\Documents and Settings\Dom\Pulpit\source ip changer\bin\Release\OTLandIPChanger.exe
+C:\Documents and Settings\Dom\Pulpit\source ip changer\bin\Release\OTLandIPChanger.pdb
+C:\Documents and Settings\Dom\Pulpit\source ip changer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dom\Pulpit\source ip changer\obj\x86\Release\OTLandIPChanger.exe
+C:\Documents and Settings\Dom\Pulpit\source ip changer\obj\x86\Release\OTLandIPChanger.pdb
